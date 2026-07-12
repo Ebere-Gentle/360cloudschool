@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/360cloudschool/static/css/main.210fc4ad.css",
+    "main.js": "/360cloudschool/static/js/main.a4db5c01.js",
+    "static/js/453.b18667d7.chunk.js": "/360cloudschool/static/js/453.b18667d7.chunk.js",
+    "static/media/blog_img4.png": "/360cloudschool/static/media/blog_img4.7b30529a9c1d71c0e2b0.png",
+    "static/media/blog_img2.png": "/360cloudschool/static/media/blog_img2.d691de7d2e18a5cb5750.png",
+    "static/media/blog_img3.png": "/360cloudschool/static/media/blog_img3.0d01bfd5dcc4704ad16c.png",
+    "static/media/hero-bgnew.png": "/360cloudschool/static/media/hero-bgnew.f09c8745c2337e6b39e4.png",
+    "static/media/blog_img5.png": "/360cloudschool/static/media/blog_img5.2b4b0c75c978a5b0d775.png",
+    "static/media/EduOS_logonew.png": "/360cloudschool/static/media/EduOS_logonew.2280eb275980e3ef493c.png",
+    "static/media/blog_img1.png": "/360cloudschool/static/media/blog_img1.3af283279e481ccfebad.png",
+    "static/media/image.jpg": "/360cloudschool/static/media/image.97e053a1e9fa42e43c68.jpg",
+    "static/media/blog_img6.avif": "/360cloudschool/static/media/blog_img6.08b6ab14d9bc46eb057f.avif",
+    "index.html": "/360cloudschool/index.html",
+    "main.210fc4ad.css.map": "/360cloudschool/static/css/main.210fc4ad.css.map",
+    "main.a4db5c01.js.map": "/360cloudschool/static/js/main.a4db5c01.js.map",
+    "453.b18667d7.chunk.js.map": "/360cloudschool/static/js/453.b18667d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.210fc4ad.css",
+    "static/js/main.a4db5c01.js"
+  ]
+}
